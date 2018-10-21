@@ -83,9 +83,7 @@ const Layout = ({ children }) => (
           <GlobalStyle />
           {children}
           <Footer>
-            &copy; 2018 by John Doe. All rights reserved. <br />
-            <a href="https://github.com/LeKoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
-            <span>Last build: {data.site.buildTime}</span>
+            &copy; 2018 by David Seidl. No rights reserved. <br />
           </Footer>
         </React.Fragment>
       </ThemeProvider>

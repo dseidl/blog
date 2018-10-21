@@ -1,14 +1,14 @@
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
-  siteTitle: 'Minimal Blog', // Navigation and Site Title
-  siteTitleAlt: 'Minimal Blog - Gatsby Starter', // Alternative Site title for SEO
+  siteTitle: 'dseidl', // Navigation and Site Title
+  siteTitleAlt: 'Blog - dseidl', // Alternative Site title for SEO
   siteUrl: 'https://minimal-blog.netlify.com', // Domain of your site. No trailing slash!
-  siteLanguage: 'en', // Language Tag on <html> element
+  siteLanguage: 'de', // Language Tag on <html> element
   siteBanner: '/social/banner.jpg', // Your image for og:image tag. You can find it in the /static folder
   favicon: 'src/favicon.png', // Your image for favicons. You can find it in the /src folder
   siteDescription: 'Minimal Blog with big typography', // Your site description
-  author: 'LekoArts', // Author for schemaORGJSONLD
+  author: 'dseidl', // Author for schemaORGJSONLD
   siteLogo: '/social/logo.png', // Image for schemaORGJSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
