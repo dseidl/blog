@@ -82,9 +82,7 @@ const Layout = ({ children }) => (
           <SEO />
           <GlobalStyle />
           {children}
-          <Footer>
-            &copy; 2018 by David Seidl. No rights reserved. <br />
-          </Footer>
+          <Footer />
         </React.Fragment>
       </ThemeProvider>
     )}
