@@ -1,5 +1,5 @@
 ---
-date: "2018-10-20"
+date: "2018-10-21"
 title: "code.talks in Hamburg"
 category: "Konferenzen"
 ---
